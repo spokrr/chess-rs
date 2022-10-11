@@ -1,4 +1,4 @@
-
+// i think this is how it works
 pub struct Board {
 
 }
