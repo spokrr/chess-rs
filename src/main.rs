@@ -1,3 +1,5 @@
+#![allow(unused_imports)]
+
 mod chess;
 
 use crate::chess::Board;
@@ -5,6 +7,6 @@ use crate::chess::Board;
 fn main() {
 
     println!("Hello, world!");
-    let b = Board::new();
+    println!("Finished");
 
 }
